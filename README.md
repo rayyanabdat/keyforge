@@ -2,7 +2,7 @@
 
 # keyforge
 
-[![npm version](https://badge.fury.io/js/keyforge.svg)](https://badge.fury.io/js/keyforge)
+[![npm version](https://badge.fury.io/js/%40gogetrekt%2Fkeyforge.svg)](https://badge.fury.io/js/%40gogetrekt%2Fkeyforge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)](https://nodejs.org/)
 
@@ -305,3 +305,4 @@ This tool is provided **as-is** for development and research purposes.
 
 
 </div>
+
