@@ -30,7 +30,7 @@ keyforge is a minimal, offline wallet generator designed for developers and secu
 
 Many wallet generators are web-based, opaque, or require trust in third parties. keyforge exists to provide a **simple, auditable tool** for generating test wallets locally. 
 
-It is intentionally **stateless**—run it once, get CSV, done. Run it again, get different keys. Nothing is cached or persisted except what you explicitly save.
+It is intentionally **stateless** run it once, get CSV, done. Run it again, get different keys. Nothing is cached or persisted except what you explicitly save.
 
 ---
 
@@ -302,5 +302,6 @@ This tool is provided **as-is** for development and research purposes.
 **Use at your own risk.** Always follow security best practices.
 
 **Made with passion by [gogetrekt](https://github.com/rayyanabdat)**
+
 
 </div>
